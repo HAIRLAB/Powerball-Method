@@ -20,6 +20,7 @@ parts/
 sdist/
 var/
 wheels/
+.DS_Store/
 *.egg-info/
 .installed.cfg
 *.egg
